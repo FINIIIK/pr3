@@ -1,0 +1,8 @@
+C:\Users\valia\Desktop\prakt3\prakt3\bin\Debug\prakt3.exe.config
+C:\Users\valia\Desktop\prakt3\prakt3\bin\Debug\prakt3.exe
+C:\Users\valia\Desktop\prakt3\prakt3\bin\Debug\prakt3.pdb
+C:\Users\valia\Desktop\prakt3\prakt3\obj\Debug\prakt3.csproj.AssemblyReference.cache
+C:\Users\valia\Desktop\prakt3\prakt3\obj\Debug\prakt3.csproj.SuggestedBindingRedirects.cache
+C:\Users\valia\Desktop\prakt3\prakt3\obj\Debug\prakt3.csproj.CoreCompileInputs.cache
+C:\Users\valia\Desktop\prakt3\prakt3\obj\Debug\prakt3.exe
+C:\Users\valia\Desktop\prakt3\prakt3\obj\Debug\prakt3.pdb
